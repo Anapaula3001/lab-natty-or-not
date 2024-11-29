@@ -14,6 +14,9 @@ foi utilizado o D ID para gerar a narração e o avatar e o Microsoft copilot pa
 ## 🧐 Processo de Criação
 escolhi o avatar e a voz no D ID, criei um prompt solicitando um texto para narração explicando o que é IA 
 
+## 🚀 Resultados
+segue vídeos feito com IA generativa 
+
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
